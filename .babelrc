@@ -8,5 +8,5 @@
     ],
     "react"
   ],
-  "plugins": ["external-helpers", "transform-runtime"]
+  "plugins": ["external-helpers"]
 }
