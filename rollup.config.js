@@ -14,7 +14,7 @@ export default {
       exclude: 'node_modules/**',
     }),
     resolve(),
-    commonjs({}),
+    commonjs({})
   ],
   external: ['fs', 'path', 'stream'],
 };
