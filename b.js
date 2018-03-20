@@ -1,1 +1,3 @@
-export default 'module b';
+import React from "react"
+
+export default <p>Hi</p>
