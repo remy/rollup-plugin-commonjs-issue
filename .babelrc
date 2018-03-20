@@ -8,5 +8,5 @@
     ],
     "react"
   ],
-  "plugins": ["external-helpers", "syntax-dynamic-import"]
+  "plugins": ["external-helpers", "syntax-dynamic-import", "transform-class-properties"]
 }
